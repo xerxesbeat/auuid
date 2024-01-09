@@ -1,0 +1,2 @@
+# auuid
+CLI UUID Generator
